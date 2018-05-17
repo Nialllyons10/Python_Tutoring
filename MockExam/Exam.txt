@@ -1,0 +1,148 @@
+Q1.
+
+Last month Mark purchased some software company stocks. Here are the details of
+the purchase:
+   The number of shares that Mark purchased was 2,000.
+   When Mark purchased the stock, he paid $40.00 per share.
+   Mark paid his stockbroker a commission that amounted to 3 percent of the
+    amount he paid for the stock.
+
+Two weeks later Mark sold the stock. Here are the details of the sale:
+   The number of shares that Mark sold was 2,000.
+   He sold the stock for $42.75 per share.
+   He paid his stockbroker another commission that amounted to 3 percent of
+    the amount he received for the stock.
+    
+Write a program that displays the following information:
+   The amount of money Mark paid for the stock.
+   The amount of commission Mark paid his broker when he bought the stock.
+   The amount that Mark sold the stock for.
+   The amount of commission Mark paid his broker when he sold the stock.
+   The amount of money that Mark had left when he sold the stock and paid his
+    broker (both times). If this amount is positive, then Mark made a profit. If the
+    amount is negative, then Mark lost money.
+    
+    
+    
+    ----------------------------------------------------------------------------------------------------------------------------------
+    
+Q2. 
+
+A painting company has determined that for every 112 square feet of wall space, one
+gallon of paint and eight hours of labor will be required. The company charges
+$35.00 per hour for labor. Write a program that asks the user to enter the square feet
+of wall space to be painted and the price of the paint per gallon. The program should
+display the following data:
+
+   The number of gallons of paint required
+   The hours of labor required
+   The cost of the paint
+   The labor charges
+   The total cost of the paint job
+  
+  
+  ----------------------------------------------------------------------------------------------------------------------------
+  
+  Q3. 
+  
+Write a program in functions to process a string.
+  1. in main() function, the program asks the user to enter a string and then call
+  the following three functions and print their returned values;
+  
+  2. create count_vowel() function that accepts the input string as an argument
+  and returns the number of vowels in the string;
+  
+  3. create count_consonant() function that accepts the input string as an
+  argument and returns the number of consonants in the string;
+  
+  4. create count_vocabulary() that accepts the input string as an argument and
+  returns the total number of unique letters in the string.
+  
+  
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Q4. 
+
+Write a program to calculate the working hours and payment in a month using
+nested loops. Assume that there are 4 weeks in this month and the user works for 5
+days per week. The program should ask the user to type the number (int) of working
+hours for each day and then display:
+
+  1. total working hours in this month;
+  2. total payment to the user (the payment is $10 per hour).
+  
+  
+  --------------------------------------------------------------------------------------------------------------------------------------
+  
+  Q5. 
+  
+  Write a program to process a input string such as:
+    
+      "StopAndSmellTheRosesAndTheLilies"
+
+The outputs should be
+  1. The sentence is: ‘Stop and smell the roses and the lilies’;
+  2. The sentence contains 6 unique words.
+  
+Please write the program in functions:
+
+  1. in main() function, the program asks the user to enter a string and then call
+  the following three functions and print their returned values;
+  
+  2. create convert() function that accepts the input string as an argument and
+  convert the input string to a sentence in which the words are separated by
+  spaces and only the first word starts with an uppercase letter, and finally
+  returns the sentence;
+  
+  3. create count_vocabulary() that accepts the sentence (the result of convert()
+  function) as an argument and returns the total number of unique words in the
+  sentence.
+  
+  
+  ---------------------------------------------------------------------------------------------------------------------------------
+  
+  Q6. 
+  
+ In mathematics, the notation n! represents the factorial of the nonnegative integer n .
+The factorial of n is the product of all the nonnegative integers from 1 to n. For
+example,
+
+  7! = 7 x 5 x 4 x 3 x 2 x 1 = 5,040
+  
+and
+
+4! = 4 x 3 x 2 x 1 = 24
+
+Write a program that lets the user enter a nonnegative integer and then uses a loop
+to calculate the factorial of that number. Display the factorial.
+  
+  
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Q7. 
+
+Write a program that accepts a sentence as input and converts each word to “Pig
+Latin.” In one version, to convert a word to Pig Latin you remove the first letter and
+place that letter at the end of the word. Then you append the string “ay” to the word.
+
+Here is an example:
+
+English: I SLEPT MOST OF THE NIGHT
+
+Pig Latin: IAY LEPTSAY OSTMAY FOAY HETAY IGHTNAY
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
