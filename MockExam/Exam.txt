@@ -61,6 +61,8 @@ Write a program in functions to process a string.
   
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+
+*******IGNORE*******
 Q4. 
 
 Write a program to calculate the working hours and payment in a month using
